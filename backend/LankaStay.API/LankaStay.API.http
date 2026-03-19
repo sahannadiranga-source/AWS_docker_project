@@ -1,0 +1,6 @@
+@LankaStay.API_HostAddress = http://localhost:5117
+
+GET {{LankaStay.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
